@@ -1,0 +1,61 @@
+body {
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.wrapper {
+	margin: 0 auto;
+	padding: 100px;
+}
+.content {
+	width: 430px;
+	height: 300px;
+	background: #fff;
+	margin: 0 auto;
+	padding: 0;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.box-money-exch {
+	margin: 0 auto;
+	width: 150px;
+	height: 30px;
+	padding: 5px;
+}
+.input-box-money-exch {
+	width: 140px;
+	height: 20px;
+}
+.box-select-money {
+	width: 140px;
+	height: 30px;
+	margin: 10px auto 0;
+	padding: 3px;
+}
+.select-money {
+	width: 140px;
+	height: 20px;
+	background: #fff;
+	border: none;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+	cursor: pointer;
+}
+.money-exc {
+	text-align: center;
+	margin: 10px;
+	font-size: 30px;
+}
+.box-button-exch {
+	margin: 0 auto;
+	width: 130px;
+	height: 30px;
+	font-size: 16px;
+	border: none;
+	border-radius: 8px;
+	cursor: pointer;
+	color: #fff;
+	background-image: linear-gradient(to right, #4facfe 0%, #00f2fe 100%);
+}
+.title {
+	font-size: 20px;
+	padding-top: 20px;
+	text-align: center;
+	text-transform: uppercase;
+}
